@@ -2,7 +2,7 @@
 
 // Select size input
 let size = document.querySelector("#sizePicker");
-
+// Select height and width input
 heightInput = size.querySelector('#inputHeight');
 widthInput = size.querySelector('#inputWidth');
 // When size is submitted by the user, call makeGrid()
