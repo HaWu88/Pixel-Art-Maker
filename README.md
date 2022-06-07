@@ -6,4 +6,5 @@ To get started, open `designs.js` and start building out the app's functionality
 
 ## How it works
 
-Using DOM to listen to mouse click and color the square on the canvas.
+* Using DOM to listen to 'submit' to make the grid for canvas based on user input
+* Using DOM to listen to 'mousedown' to color the square on the canvas.
